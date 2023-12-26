@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ATIUR RAHMAN
+- 👋 Hi, I’m ATIUR RAHMAN
 - 👀 I’m interested in LEARNING CODEING
 - 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on OPEN SOURCE PROJECTS
