@@ -2,7 +2,7 @@
 - 👀 I’m interested in LEARNING CODEING
 - 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on OPEN SOURCE PROJECTS
-- 📫 How to reach me : (LinkedIn) => {linkedin.com/in/atiur-rahman-97639a2a2}
+- 📫 How to reach me : (gmail) => {atiurtanha@gmail.com}
 
 <!---
 XTIUR/XTIUR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
