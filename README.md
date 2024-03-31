@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ATIUR RAHMAN
-- 👀 I’m interested in LEARNING CODEING
+- 👀 I’m interested in LEARNING CODING
 - 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on OPEN SOURCE PROJECTS
 - 📫 How to reach me : (gmail) => {atiurtanha@gmail.com}
